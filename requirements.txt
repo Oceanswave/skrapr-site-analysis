@@ -1,0 +1,5 @@
+argparse
+pyyaml
+python-dotenv
+pytest-playwright
+url-normalize
